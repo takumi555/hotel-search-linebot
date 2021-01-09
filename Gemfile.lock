@@ -105,6 +105,7 @@ GEM
       haml (>= 4.0, < 6)
       nokogiri (>= 1.6.0)
       ruby_parser (~> 3.5)
+    httpclient (2.8.3)
     i18n (1.8.7)
       concurrent-ruby (~> 1.0)
     jbuilder (2.10.1)
@@ -256,6 +257,7 @@ DEPENDENCIES
   capybara (>= 2.15)
   dotenv-rails
   haml-rails
+  httpclient
   jbuilder (~> 2.7)
   jquery-rails
   jquery-ui-rails
