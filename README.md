@@ -1,10 +1,8 @@
 ## ホテル検索LINEbot
 
-# URl
+### URL
 
-# サービス概要
+### サービス概要
 
-# 使用したAPI
-・LINE Developer tools
-・Rakuten API
+### 使用したAPI
 
