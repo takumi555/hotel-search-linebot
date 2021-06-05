@@ -1,24 +1,10 @@
-# README
+## ホテル検索LINEbot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# URl
 
-Things you may want to cover:
+# サービス概要
 
-* Ruby version
+# 使用したAPI
+・LINE Developer tools
+・Rakuten API
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
